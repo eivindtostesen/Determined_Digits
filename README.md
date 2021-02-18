@@ -1,4 +1,2 @@
-# Solo Numbers
-Solo numbers are a generalization of round numbers.
-
-This project aims at developing a numeric type in Python to represent Solo Numbers and the operations that can be done with them.
+# Numeric Types in Python
+This project aims at developing numeric data types in Python to represent classes of numbers and the operations that can be done with them.
